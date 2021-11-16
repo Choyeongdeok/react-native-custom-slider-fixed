@@ -1,18 +1,18 @@
-# react-native-custom-slider
+# react-native-custom-slider-fixed(fix lifecycle)
 
 ## Getting started
 
-`$ npm install react-native-custom-slider --save`
+`$ npm install react-native-custom-slider-fixed --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-custom-slider`
+`$ react-native link react-native-custom-slider-fixed`
 
 ## Usage
 ```javascript
 import React, { useState } from "react"
 import { View } from "react-native"
-import Slider from 'react-native-custom-slider';
+import Slider from 'react-native-custom-slider-fixed';
 
 const SliderApp = props => {
 

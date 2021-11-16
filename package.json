@@ -1,8 +1,8 @@
 {
-  "name": "react-native-custom-slider",
+  "name": "react-native-custom-slider-fixed",
   "title": "React Native Custom Slider",
-  "version": "1.0.2",
-  "description": "React Native Slider with Customizable Thumb",
+  "version": "1.0.0",
+  "description": "fix lifecycle",
   "main": "src/Slider.js",
   "files": [
     "lib",
@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LkyYuen/react-native-custom-slider.git",
-    "baseUrl": "https://github.com/LkyYuen/react-native-custom-slider"
+    "url": "git+https://github.com/LkyYuen/react-native-custom-slider-fixed.git",
+    "baseUrl": "https://github.com/LkyYuen/react-native-custom-slider-fixed"
   },
   "keywords": [
     "react-native",
     "slider"
   ],
   "author": {
-    "name": "LkyYuen",
-    "email": "lkylau96@gmail.com"
+    "name": "Choyeongdeok",
+    "email": "angel987432@naver.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
